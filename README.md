@@ -3,7 +3,7 @@ This project is a LC3 instruction to binary converter made as a project for the 
 
 
 ABOUT THIS PROGRAM:
-The program will search for a file with .asm extension that must be from an LC3 assembly language. Output will be a .bin file that will have the full binary code of the assembly program.
+The program will search for a file with .asm extension that must be from an LC3 assembly language. Output will be a .obj file that will have the full binary code of the assembly program.
 NOTE! this program does not implement commenting in the assembly code and will crash if used.
 
 
